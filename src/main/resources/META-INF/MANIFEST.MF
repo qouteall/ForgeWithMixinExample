@@ -1,0 +1,2 @@
+MixinConnector: com.example.examplemod.MyMixinConnector
+
