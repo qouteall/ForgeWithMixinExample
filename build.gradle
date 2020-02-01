@@ -113,7 +113,7 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
     //Mixin
-    compile 'org.spongepowered:mixin:0.8-SNAPSHOT'
+    compile 'org.spongepowered:mixin:0.8.1-SNAPSHOT'
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..
