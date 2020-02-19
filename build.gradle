@@ -113,7 +113,7 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
     //Mixin
-    compile 'org.spongepowered:mixin:0.8.1-SNAPSHOT'
+    compile 'org.spongepowered:mixin:0.8-SNAPSHOT'
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..
@@ -166,5 +166,5 @@ repositories {
 apply plugin: 'org.spongepowered.mixin'
 
 mixin {
-    add sourceSets.main, "main.refmap.json"
+    add sourceSets.main, "you_should_rename_this.refmap.json"
 }

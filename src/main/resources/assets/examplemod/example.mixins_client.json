@@ -2,7 +2,7 @@
   "required": true,
   "package": "com.example.examplemod.mixin_client",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "main.refmap.json",
+  "refmap": "you_should_rename_this.refmap.json",
   "mixins": [
     "MixinMinecraft"
   ],
